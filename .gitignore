@@ -1,0 +1,8 @@
+.DS_Store
+/build/
+/dist/
+/AirAnki/.build/
+/AirAnki/.swiftpm/
+
+__pycache__/
+*.pyc

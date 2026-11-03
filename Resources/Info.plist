@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>com.camerondent.AirAnki</string>
+    <key>CFBundleName</key><string>AirAnki</string>
+    <key>CFBundleDisplayName</key><string>AirAnki</string>
+    <key>CFBundleExecutable</key><string>AirAnki</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>NSHumanReadableCopyright</key><string>Free and open source. Not affiliated with Apple or Anki.</string>
+    <key>LSUIElement</key><true/>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSMotionUsageDescription</key>
+    <string>AirAnki reads the motion of the AirPod in your hand so a flick can answer your Anki cards. Motion data stays on your Mac.</string>
+</dict>
+</plist>

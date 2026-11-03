@@ -1,0 +1,709 @@
+[
+  {
+    "id": "P01",
+    "title": "Harelzx/airclicker",
+    "url": "https://github.com/Harelzx/airclicker",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M01",
+    "title": "Harelzx/airclicker repository metadata",
+    "url": "https://api.github.com/repos/Harelzx/airclicker",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P02",
+    "title": "tony1010-dev/PodMouse",
+    "url": "https://github.com/tony1010-dev/PodMouse",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M02",
+    "title": "tony1010-dev/PodMouse repository metadata",
+    "url": "https://api.github.com/repos/tony1010-dev/PodMouse",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P03",
+    "title": "nhurden/MediaKeyTap",
+    "url": "https://github.com/nhurden/MediaKeyTap",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M03",
+    "title": "nhurden/MediaKeyTap repository metadata",
+    "url": "https://api.github.com/repos/nhurden/MediaKeyTap",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P04",
+    "title": "tombonez/noTunes",
+    "url": "https://github.com/tombonez/noTunes",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M04",
+    "title": "tombonez/noTunes repository metadata",
+    "url": "https://api.github.com/repos/tombonez/noTunes",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P05",
+    "title": "roxgib/anki-contanki",
+    "url": "https://github.com/roxgib/anki-contanki",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M05",
+    "title": "roxgib/anki-contanki repository metadata",
+    "url": "https://api.github.com/repos/roxgib/anki-contanki",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P06",
+    "title": "TheDabblingDuck/ankimote",
+    "url": "https://github.com/TheDabblingDuck/ankimote",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M06",
+    "title": "TheDabblingDuck/ankimote repository metadata",
+    "url": "https://api.github.com/repos/TheDabblingDuck/ankimote",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P07",
+    "title": "CoderBomber68/Anki-Remote-Driver",
+    "url": "https://github.com/CoderBomber68/Anki-Remote-Driver",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M07",
+    "title": "CoderBomber68/Anki-Remote-Driver repository metadata",
+    "url": "https://api.github.com/repos/CoderBomber68/Anki-Remote-Driver",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P08",
+    "title": "adolfintel/OpenPods",
+    "url": "https://github.com/adolfintel/OpenPods",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M08",
+    "title": "adolfintel/OpenPods repository metadata",
+    "url": "https://api.github.com/repos/adolfintel/OpenPods",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P09",
+    "title": "SpriteOvO/AirPodsDesktop",
+    "url": "https://github.com/SpriteOvO/AirPodsDesktop",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M09",
+    "title": "SpriteOvO/AirPodsDesktop repository metadata",
+    "url": "https://api.github.com/repos/SpriteOvO/AirPodsDesktop",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P10",
+    "title": "steam3d/MagicPods-Windows",
+    "url": "https://github.com/steam3d/MagicPods-Windows",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M10",
+    "title": "steam3d/MagicPods-Windows repository metadata",
+    "url": "https://api.github.com/repos/steam3d/MagicPods-Windows",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P11",
+    "title": "steam3d/MagicPodsLinux",
+    "url": "https://github.com/steam3d/MagicPodsLinux",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M11",
+    "title": "steam3d/MagicPodsLinux repository metadata",
+    "url": "https://api.github.com/repos/steam3d/MagicPodsLinux",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P12",
+    "title": "librepods-org/librepods",
+    "url": "https://github.com/librepods-org/librepods",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M12",
+    "title": "librepods-org/librepods repository metadata",
+    "url": "https://api.github.com/repos/librepods-org/librepods",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P13",
+    "title": "furiousMAC/continuity",
+    "url": "https://github.com/furiousMAC/continuity",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M13",
+    "title": "furiousMAC/continuity repository metadata",
+    "url": "https://api.github.com/repos/furiousMAC/continuity",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P14",
+    "title": "fischejo/airpods-notify",
+    "url": "https://github.com/fischejo/airpods-notify",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M14",
+    "title": "fischejo/airpods-notify repository metadata",
+    "url": "https://api.github.com/repos/fischejo/airpods-notify",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P15",
+    "title": "hammerspoon/hammerspoon",
+    "url": "https://github.com/Hammerspoon/hammerspoon",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M15",
+    "title": "hammerspoon/hammerspoon repository metadata",
+    "url": "https://api.github.com/repos/hammerspoon/hammerspoon",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P16",
+    "title": "pqrs-org/Karabiner-Elements",
+    "url": "https://github.com/pqrs-org/Karabiner-Elements",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M16",
+    "title": "pqrs-org/Karabiner-Elements repository metadata",
+    "url": "https://api.github.com/repos/pqrs-org/Karabiner-Elements",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P17",
+    "title": "keymapperorg/KeyMapper",
+    "url": "https://github.com/keymapperorg/KeyMapper",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M17",
+    "title": "keymapperorg/KeyMapper repository metadata",
+    "url": "https://api.github.com/repos/keymapperorg/KeyMapper",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P18",
+    "title": "ankidroid/Anki-Android",
+    "url": "https://github.com/ankidroid/Anki-Android",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "M18",
+    "title": "ankidroid/Anki-Android repository metadata",
+    "url": "https://api.github.com/repos/ankidroid/Anki-Android",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P19",
+    "title": "AnkiConnect (current SourceHut; archived GitHub mirror)",
+    "url": "https://git.sr.ht/~foosoft/anki-connect",
+    "accessed": "2026-10-30",
+    "notes": "Read successfully using public HTTPS retrieval after web-tool restriction. Later individual commit lookup returned HTTP 418; no workaround attempted."
+  },
+  {
+    "id": "M19",
+    "title": "FooSoft/anki-connect repository metadata",
+    "url": "https://api.github.com/repos/FooSoft/anki-connect",
+    "accessed": "2026-10-30",
+    "notes": "Public GitHub REST metadata; selected fields saved in repository_metadata.json. Push date is not release date."
+  },
+  {
+    "id": "P20",
+    "title": "BetterTouchTool",
+    "url": "https://docs.folivora.ai/docs/json/trigger-definitions/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P21",
+    "title": "8BitDo Micro keyboard mode",
+    "url": "https://support.8bitdo.com/faq/micro.html",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P22",
+    "title": "Study Remote Anki add-on guide",
+    "url": "https://studyremote.com/blogs/quick-guide/anki-remote-add-on",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P23",
+    "title": "8BitDo Micro Anki key mapping guide",
+    "url": "https://gist.github.com/emleddin/fa059bd25445f9bb30150857640c0bc9/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P24",
+    "title": "Media keys to answer Anki cards",
+    "url": "https://www.reddit.com/r/Anki/comments/13k5v7z",
+    "accessed": "2026-10-30",
+    "notes": "Search excerpt reviewed; full page timed out."
+  },
+  {
+    "id": "P25",
+    "title": "Best Anki Remote? (r/medicalschool)",
+    "url": "https://www.reddit.com/r/medicalschool/comments/1u7jaz1/best_anki_remote/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P26",
+    "title": "Control Eye Chart with AirPods",
+    "url": "https://www.reddit.com/r/airpods/comments/1lawpws",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P27",
+    "title": "AirPods-controlled game (Hacker News)",
+    "url": "https://news.ycombinator.com/item?id=45362365",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P28",
+    "title": "AirPods GATT access discussion (Apple Developer Forums)",
+    "url": "https://developer.apple.com/forums/thread/845352",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P29",
+    "title": "Bluetooth audio cut-off discussion (Anki Forums)",
+    "url": "https://forums.ankiweb.net/t/audio-cut-off-at-end-with-macos-monterey-12-3-1/19695",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P30",
+    "title": "AirPods: fix audio dropouts (macOS)",
+    "url": "https://ankiweb.net/shared/info/676963607",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P31",
+    "title": "AirPod controls / Centre Court tennis score app discussion",
+    "url": "https://www.reddit.com/r/iOSProgramming/comments/16tajqc",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P32",
+    "title": "AirPodsNod",
+    "url": "https://github.com/kun-Jiang/AirPods_Nod",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P33",
+    "title": "AirPoise",
+    "url": "https://github.com/jaskirat1616/AirPoise",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P34",
+    "title": "AnkiDroid custom combination controls request #12425",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/12425",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "P35",
+    "title": "Contanki and media keys (r/Anki)",
+    "url": "https://www.reddit.com/r/Anki/comments/1u6zjc4/contanki_and_media_keys/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page; implementation claims attributed to author where applicable."
+  },
+  {
+    "id": "S01",
+    "title": "Apple AirPods controls and gestures",
+    "url": "https://support.apple.com/guide/airpods/use-controls-and-gestures-with-your-airpods-devb2c431317/web",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S02",
+    "title": "Apple pause, skip and adjust volume",
+    "url": "https://support.apple.com/en-ie/102628",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S03",
+    "title": "Apple AirPods settings and automatic ear detection",
+    "url": "https://support.apple.com/en-gb/108764",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S04",
+    "title": "AirPods Pro 2 USB-C technical specifications",
+    "url": "https://support.apple.com/en-us/111834",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S05",
+    "title": "AirPods Pro 2 Lightning technical specifications",
+    "url": "https://support.apple.com/en-in/111851",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S06",
+    "title": "Apple restart and reset AirPods",
+    "url": "https://support.apple.com/en-euro/guide/airpods/iph561965261/web",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S07",
+    "title": "Apple AirPods pairing controls",
+    "url": "https://support.apple.com/en-my/118576",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S08",
+    "title": "WWDC23: What is new in Core Motion (transcript)",
+    "url": "https://developer.apple.com/videos/play/wwdc2023/10179/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S09",
+    "title": "CMHeadphoneMotionManager",
+    "url": "https://developer.apple.com/documentation/coremotion/cmheadphonemotionmanager?changes=latest_major",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S10",
+    "title": "CMHeadphoneActivityManager",
+    "url": "https://developer.apple.com/documentation/coremotion/cmheadphoneactivitymanager.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S11",
+    "title": "MPRemoteCommandCenter",
+    "url": "https://developer.apple.com/documentation/mediaplayer/mpremotecommandcenter.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S12",
+    "title": "Handling external player events notifications",
+    "url": "https://developer.apple.com/documentation/mediaplayer/handling-external-player-events-notifications.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S13",
+    "title": "WWDC25 camera capture features",
+    "url": "https://developer.apple.com/videos/play/wwdc2025/253/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S14",
+    "title": "AVCaptureEventInteraction",
+    "url": "https://developer.apple.com/documentation/avkit/avcaptureeventinteraction?changes=_8_2&language=objc",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S15",
+    "title": "AirPods firmware release notes; 7A294",
+    "url": "https://support.apple.com/en-us/106340",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S16",
+    "title": "Apple Spatial Audio and head tracking support",
+    "url": "https://support.apple.com/my-mm/guide/airpods/dev00eb7e0a3/web",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S17",
+    "title": "AnkiMobile preferences and gamepad support",
+    "url": "https://docs.ankiweb.net/ankimobile/preferences",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S18",
+    "title": "AnkiMobile study-screen keyboard shortcuts",
+    "url": "https://docs.ankiweb.net/ankimobile/study-screen.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S19",
+    "title": "AnkiMobile study tools and user actions",
+    "url": "https://docs.ankiweb.net/ankimobile/study-tools.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S20",
+    "title": "AnkiMobile URL schemes",
+    "url": "https://docs.ankiweb.net/ankimobile/url-schemes.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S21",
+    "title": "Anki desktop studying manual",
+    "url": "https://docs.ankiweb.net/manual/studying",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S22",
+    "title": "AnkiDroid manual",
+    "url": "https://docs.ankidroid.org/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S23",
+    "title": "Android media-button routing",
+    "url": "https://developer.android.com/media/legacy/media-buttons",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S24",
+    "title": "AnkiDroid general key bindings source",
+    "url": "https://raw.githubusercontent.com/ankidroid/Anki-Android/main/AnkiDroid/src/main/java/com/ichi2/anki/reviewer/Binding.kt",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S25",
+    "title": "AnkiDroid main source archive",
+    "url": "https://codeload.github.com/ankidroid/Anki-Android/tar.gz/refs/heads/main",
+    "accessed": "2026-10-30",
+    "notes": "Archive read in memory; 2,922 main Kotlin/Java/XML files searched, with no explicit media/session/headset-hook identifier matches. No extraction, execution, installation or git operation."
+  },
+  {
+    "id": "S26",
+    "title": "BTLEmap demonstration paper (WiSec 2020)",
+    "url": "https://wisec2020.ins.jku.at/proceedings/wisec20-6.pdf",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S27",
+    "title": "airpods-notify proximity protocol documentation",
+    "url": "https://github.com/fischejo/airpods-notify/blob/master/doc/proximity_protocol.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S28",
+    "title": "Continuity proximity-pairing documentation",
+    "url": "https://github.com/furiousMAC/continuity/blob/master/messages/proximity_pairing.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S29",
+    "title": "AirPodsDesktop Apple Continuity packet layout",
+    "url": "https://raw.githubusercontent.com/SpriteOvO/AirPodsDesktop/main/Source/Core/AppleCP.h",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S30",
+    "title": "AirPodsDesktop packet validation and lid decoder",
+    "url": "https://raw.githubusercontent.com/SpriteOvO/AirPodsDesktop/main/Source/Core/AppleCP.cpp",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S31",
+    "title": "PodMouse StemButtons.swift",
+    "url": "https://raw.githubusercontent.com/tony1010-dev/PodMouse/main/Sources/StemButtons.swift",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S32",
+    "title": "AirClicker motion and key-event source",
+    "url": "https://raw.githubusercontent.com/Harelzx/airclicker/main/Sources/AirClicker/main.swift",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S33",
+    "title": "AnkiConnect current v1 API",
+    "url": "https://git.sr.ht/~foosoft/anki-connect/blob/master/API_V1.md",
+    "accessed": "2026-10-30",
+    "notes": "Read successfully using public HTTPS retrieval after web-tool restriction. Later individual commit lookup returned HTTP 418; no workaround attempted."
+  },
+  {
+    "id": "S34",
+    "title": "AnkiConnect current legacy API",
+    "url": "https://git.sr.ht/~foosoft/anki-connect/blob/master/API_LEGACY.md",
+    "accessed": "2026-10-30",
+    "notes": "Read successfully using public HTTPS retrieval after web-tool restriction. Later individual commit lookup returned HTTP 418; no workaround attempted."
+  },
+  {
+    "id": "S35",
+    "title": "AnkiConnect license",
+    "url": "https://git.sr.ht/~foosoft/anki-connect/blob/master/LICENSE",
+    "accessed": "2026-10-30",
+    "notes": "Read successfully using public HTTPS retrieval after web-tool restriction. Later individual commit lookup returned HTTP 418; no workaround attempted."
+  },
+  {
+    "id": "S36",
+    "title": "Apple Cocoa event monitoring guide",
+    "url": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/MonitoringEvents/MonitoringEvents.html",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S37",
+    "title": "Karabiner from-event definition",
+    "url": "https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/from/",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S38",
+    "title": "BetterTouchTool license offerings",
+    "url": "https://folivora.ai/buy",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S39",
+    "title": "AnkiWeb add-on catalog",
+    "url": "https://ankiweb.net/shared/addons",
+    "accessed": "2026-10-30",
+    "notes": "Live rendered catalog reviewed in Chrome; searches: headphone, media key, AirPods. Text-only fetch was a JavaScript shell."
+  },
+  {
+    "id": "S40",
+    "title": "CoreBluetooth pre-creation authorization check",
+    "url": "https://developer.apple.com/documentation/corebluetooth/cbmanager/authorization-swift.type.property.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S41",
+    "title": "CoreBluetooth advertisement scanning",
+    "url": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/scanforperipherals(withservices:options:).md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S42",
+    "title": "CoreGraphics listen-event permission preflight",
+    "url": "https://developer.apple.com/documentation/coregraphics/cgpreflightlisteneventaccess().md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S43",
+    "title": "Hammerspoon event and system-key reference",
+    "url": "https://www.hammerspoon.org/docs/hs.eventtap.event.html",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S44",
+    "title": "OpenPods releases",
+    "url": "https://github.com/adolfintel/OpenPods/releases",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S45",
+    "title": "Archived AnkiConnect GitHub migration notice",
+    "url": "https://github.com/FooSoft/anki-connect",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S46",
+    "title": "AirPodsNod README",
+    "url": "https://raw.githubusercontent.com/kun-Jiang/AirPods_Nod/main/README.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  },
+  {
+    "id": "S47",
+    "title": "AirPoise README",
+    "url": "https://raw.githubusercontent.com/jaskirat1616/AirPoise/main/README.md",
+    "accessed": "2026-10-30",
+    "notes": "Reviewed public page/document or source file."
+  }
+]
